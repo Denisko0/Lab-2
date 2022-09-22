@@ -1,0 +1,15 @@
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\Converter.csproj.AssemblyReference.cache
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\Converter.GeneratedMSBuildEditorConfig.editorconfig
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\Converter.AssemblyInfoInputs.cache
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\Converter.AssemblyInfo.cs
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\Converter.csproj.CoreCompileInputs.cache
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\bin\Debug\net6.0\Converter.exe
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\bin\Debug\net6.0\Converter.deps.json
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\bin\Debug\net6.0\Converter.runtimeconfig.json
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\bin\Debug\net6.0\Converter.dll
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\bin\Debug\net6.0\Converter.pdb
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\Converter.dll
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\refint\Converter.dll
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\Converter.pdb
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\Converter.genruntimeconfig.cache
+G:\ООП Лаби\Лаба№2\Lab2\Converter\Converter\Converter\obj\Debug\net6.0\ref\Converter.dll
